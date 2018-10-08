@@ -1,1 +1,1 @@
-(TiSli profile on GitHub)[https://github.com/TiSli]
+[TiSli profile on GitHub](https://github.com/TiSli)
